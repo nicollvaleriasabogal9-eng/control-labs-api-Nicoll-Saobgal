@@ -1,5 +1,5 @@
 import { Request, Response, NextFunction } from 'express';
-import { ICreateEnvironmentDTO } from '../dtos/ambiente.dto';
+import { ICreateEnvironmentDTO } from '../dtos/ambientes.dto';
 
 const isCreateEnvironmentDTO = (
   value: unknown
