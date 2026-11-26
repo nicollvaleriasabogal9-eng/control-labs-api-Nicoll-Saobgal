@@ -2,12 +2,12 @@
   "name": "control-labs-api",
   "version": "1.0.0",
   "description": "",
-  "main": "dist/server.ts",
+  "main": "dist/server.js",
   "type": "commonjs",
   "scripts": {
-    "dev": "tsx watch server.ts",
+    "dev": "tsx watch src/server.ts",
     "build": "tsc",
-    "start": "node dist/server.tfLRJpJ6iQxnVw4OnB7MoM9g"
+    "start": "node dist/server.js"
   },
   "keywords": [],
   "author": "",
